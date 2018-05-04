@@ -11,8 +11,8 @@ import java.util.Random;
  * @author MICHAL
  */
 public class Punkt2D {
-    private int x;
-    private int y;
+    public int x;
+    public int y;
        
     public Punkt2D(){
     this.x = 0;
